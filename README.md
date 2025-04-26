@@ -1,16 +1,20 @@
-## Hi there 👋
+# Mount Moriah Management
 
-<!--
-**JeffG-tech/JeffG-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to **Mount Moriah Management**, a real estate management platform designed to track payments, properties, and streamline operations for property managers.
 
-Here are some ideas to get you started:
+## Features
+- 🏠 Manage and track properties.
+- 💳 Monitor and record payment transactions.
+- 📊 Generate reports for property and payment data.
+- 🔍 Search and filter properties and Clients.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Getting Started
+1. Clone the repository.
+2. Install dependencies using `npm install`.
+3. Run the application using `npm start`.
+
+## About
+Mount Moriah Management is built to simplify real estate management and improve operational efficiency.
+
+## Contact
+For inquiries, reach out to us at [ryanjeffgalera@gmail.com].
